@@ -1,5 +1,4 @@
-#  https://discord.com/api/webhooks/1251547014538465464/JOAeBOupxOURwxl32arc3n8NmlfAY_3XdN7InH8WUxLsawSc0biClxpobrZ3rRdlErwx
-
+#  
 # import requests
 # from bs4 import BeautifulSoup
 # import json
