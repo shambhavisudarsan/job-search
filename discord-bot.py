@@ -52,7 +52,7 @@
 #     return job_listings
 
 # def send_discord_notification(new_jobs):
-#     webhook_url = 'https://discord.com/api/webhooks/1251547014538465464/JOAeBOupxOURwxl32arc3n8NmlfAY_3XdN7InH8WUxLsawSc0biClxpobrZ3rRdlErwx'  # Replace this with your actual Discord webhook URL
+#     webhook_url = 'https://discord.com/api/webhdlErwx'  # Replace this with your actual Discord webhook URL
 
 #     # Prepare the message content
 #     message_parts = []
